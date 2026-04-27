@@ -9,6 +9,8 @@
     <Version>1.0.0</Version>
     <Description>A tool that does something useful.</Description>
     <Authors>SeanHo</Authors>
+    <RepositoryUrl>https://github.com/seanhocode/Dev.CICD</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
 </Project>
